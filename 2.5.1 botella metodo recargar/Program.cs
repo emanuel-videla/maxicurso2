@@ -11,6 +11,7 @@ namespace _2._5._1_botella_metodo_recargar
         static void Main(string[] args)
 
         {
+            // texto random para verificar github
 
             Botella b1 = new Botella("Rojo","Vidrio");
             //b1.Capacidad = 150; no se puede asignar xq nace con una cap max 100 en clase botella
